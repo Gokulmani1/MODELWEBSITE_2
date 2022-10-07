@@ -1,0 +1,96 @@
+.page1{
+    background-image:url(bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size:1900px 850px;
+}
+.headbtn{
+    border-radius: 15px;
+    color:azure;
+    background-color: rgb(8, 8, 8);
+    border:none;
+    outline: none;
+}
+.hov:hover{
+      font-size:20px;
+}
+.hov1:hover{
+    font-size:20px;
+}
+.hov2:hover{
+    font-size:20px;
+}
+.hov3:hover{
+    font-size:20px;
+}
+.hov4:hover{
+    font-size:20px;
+}
+.hov5:hover{
+    font-size:20px;
+}
+.text1{
+    font-size: 80px;
+}
+.text2{
+    font-size:40px;
+}
+.text3{
+    font-size:30px;
+}
+.text4{
+    background-color: aliceblue;
+    background-size: cover;
+    display: inline-block; 
+    color: black;
+}
+.text5{
+    background-color: aliceblue;
+    background-size: cover;
+    display: inline-block; 
+    color: black;
+}
+.text6{
+    background-color: aliceblue;
+    background-size: cover;
+    display: inline-block; 
+    color: black;
+}
+.text7{
+    background-color: aliceblue;
+    background-size: cover;
+    display: inline-block; 
+    color: black;
+}
+.c1{
+    margin-top:40px;
+    color: aliceblue;
+}
+.nav{
+    color: aliceblue;
+    background-color: black;
+    position:sticky;
+}
+.cont2
+{
+    margin-top:100px;
+    color: aliceblue;
+}
+.cont3{
+    margin-top:20px;
+    margin-left:10px;
+    padding: 30px;
+}
+.cont4{
+    font-size:20px;
+    color: aliceblue;
+    margin-left:10px;
+}
+.textbox1{
+    padding:4px;
+}
+.card1{
+    position:absolute;
+    top: 800px;
+    left: 260px;
+    text-align: center;
+}
